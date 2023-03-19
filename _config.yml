@@ -22,8 +22,8 @@ title: Marc Sances
 email: marc.sances@coetic.cat
 description: >- # this means to ignore newlines until "baseurl:"
    This is my personal portfolio. Learn about my and explore my projects here!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /
+url: https://marcsances.net
 github_username:  marcsances
 author:
   name: Marc Sances
