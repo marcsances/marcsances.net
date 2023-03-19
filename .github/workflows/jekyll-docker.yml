@@ -1,0 +1,35 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+    - name: FTP Mirror
+      uses: modern-dev/ftp-mirror@v2
+      with:
+        # FTP Server.
+        server: ${{ secrets.FTP_HOST }}
+        # FTP User.
+        user: ${{ secrets.FTP_USER }}
+        # FTP Password.
+        password: ${{ secrets.FTP_PASSWORD }}
+        # Local directory.
+        local_dir: ${{ github.workspace }}/_site
+        # Remote directory.
+        remote_dir: /marcsances.net
+        # Delete all the files inside of the remote directory.
+        delete: true
