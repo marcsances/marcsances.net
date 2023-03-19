@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "Marc Sances Medina",
+    "label": "Full-stack Developer",
+    "picture": "",
+    "email": "marc.sances@coetic.cat",
+    "website": "https://marcsances.net",
+    "summary": "Marc Sances is a full stack software developer. Highly skilled in various stacks, with strong ability to learn new tools and proactivity to work independently. He's also a hobbyist DJ by the name of Marquii (Refer to the DJ Portfolio).",
+    "location": {
+      "city": "Lleida",
+      "countryCode": "ES",
+      "region": "Catalonia"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Marc Sances Medina",
+        "url": "marc-sances-medina-65497b13b"
+      },
+      {
+        "network": "Github",
+        "username": "marcsances",
+        "url": "https://github.com/marcsances"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "Marc Sances",
+        "url": "https://stackoverflow.com/users/2804722/marc-sances"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Epos Now",
+      "position": "Full Stack Developer",
+      "website": "https://eposnow.com",
+      "startDate": "2021-11-29",
+      "summary": "Full stack developer, working both in backend and frontend projects, for the Data team.",
+      "highlights": [
+        "Worked in the Data Platform, both backend (Go, C#) and frontend (React)."
+      ]
+    },
+    {
+      "company": "Just Digital",
+      "position": "Full Stack Developer",
+      "startDate": "2019-07-01",
+      "endDate": "2021-11-26",
+      "summary": "Full stack developer, working in several projects.",
+      "highlights": [
+        "Worked in the development of a POS client for gas stations using Node.js, Electron, React and RxJS.",
+        "Training and developing a Computer Vision solution for real time analysis of camera imagery using OpenCV, TensorFlow and CUDA.",
+        "Developed several mobile applications using Angular, Ionic and Capacitor, with Spring backend in Kotlin."
+      ]
+    },
+    {
+      "company": "Alter Software",
+      "position": "Web Developer",
+      "website": "https://altersoftware.es/",
+      "startDate": "2017-06-01",
+      "endDate": "2018-01-31",
+      "summary": "Web Developer for an ERP solution.",
+      "highlights": [
+        "Adapting HTML pages and Javascript code to conform the latest web browsing standards.",
+        "Developed an application for tracking of meetings in the CRM, with hand signature support."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "First Lego League Lleida",
+      "position": "Referee",
+      "website": "https://www.firstlegoleague.udl.cat/ca/",
+      "startDate": "2018-02-24",
+      "summary": "Referee in the FLL Lleida editions of 2018, 2019, 2020 and 2023.",
+      "highlights": [
+        "First Lego League is a robotics and science competition aimed at kids and teens to inspire and encourage them into the world of STEAM.",
+        "Kids have to present a science project, showcase the positive values of their team and build a robot using Lego Mindstorms equipment.",
+        "The robot has to pass certain missions. The referee task is verifying the robot passed the missions successfully and ensure competitive integrity and fair play."
+      ]
+    },
+    {
+      "organization": "First Lego League Lleida",
+      "position": "Floater",
+      "website": "https://www.firstlegoleague.udl.cat/ca/",
+      "startDate": "2014-02-22",
+      "endDate": "2017-02-25",
+      "summary": "Floater in the FLL Lleida editions of 2014, 2015, 2016 and 2017.",
+      "highlights": [
+        "The task of the floater is assisting a participant team during the whole day of the competition, ensuring they arrive in time to the different trials and being the middlemen between the teams and the organisation."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat de Lleida",
+      "area": "Degree in Computer Engineering and Business Management (double degree)",
+      "studyType": "Bachelor",
+      "startDate": "2013-09-12",
+      "endDate": "2019-09-13",
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Devleopment",
+      "keywords": [
+        "Python",
+        "Java",
+        "Kotlin",
+        "C#",
+        "Go",
+        "Spring"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "keywords": [
+        "Angular",
+        "React",
+        "HTML5",
+        "Typescript",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Databases & Data Platforms",
+      "keywords": [
+        "PostgreSQL",
+        "SQL Server",
+        "MariaDB",
+        "SQLite",
+        "Redis",
+        "Kafka",
+        "Elasticsearch"
+      ]
+    },
+    {
+      "name": "Cloud, DevOps & IaC",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Terraform",
+        "Helm",
+        "Linux",
+        "Bash"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Catalan",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluid and professionally capable (CERF C1 level with diploma)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "DJing",
+        "Drum and Bass"
+      ]
+    },
+    {
+      "name": "Cycling"
+    }
+  ],
+}

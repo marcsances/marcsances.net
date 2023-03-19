@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="CV Schema">
+          <value>
+            <SchemaInfo>
+              <option name="generatedName" value="New Schema" />
+              <option name="name" value="CV Schema" />
+              <option name="relativePathToSchema" value="https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="_data/cv.json" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>
