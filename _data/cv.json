@@ -2,7 +2,7 @@
   "basics": {
     "name": "Marc Sances Medina",
     "label": "Full-stack Developer",
-    "picture": "",
+    "picture": "https://avatars.githubusercontent.com/u/8149868?v=4",
     "email": "marc.sances@coetic.cat",
     "website": "https://marcsances.net",
     "summary": "Marc Sances is a full stack software developer. Highly skilled in various stacks, with strong ability to learn new tools and proactivity to work independently. He's also a hobbyist DJ by the name of Marquii (Refer to the DJ Portfolio).\nCollegiate 575 for the Technical Computer Engineering College of Catalonia (COETIC).",
@@ -38,7 +38,8 @@
       "summary": "Full stack developer, working both in backend and frontend projects, for the Data team. Epos Now is a multinational Cloud based POS provider, offering an integral solution for small and medium sized retailers.",
       "highlights": [
         "Worked in the Data Platform, both backend (Go, C#) and frontend (React), in delivering a newer, more resilient and scalable solution for customers.",
-        "Developing in systems at scale, designing and implementing new services based in a microservice architecture and deployed through IaC (Terraform / Helm) into a Cloud Platform (AWS, Kubernetes). Communication is queue based through Kafka and data is indexed through OpenSearch."
+        "Developing in systems at scale, designing and implementing new services based in a microservice architecture and deployed through IaC (Terraform / Helm) into a Cloud Platform (AWS, Kubernetes). Communication is queue based through Kafka and data is indexed through OpenSearch.",
+        "Now working in the Business Team, where I focus my efforts in frontend development (React + Typescript), but also work in backend tasks in Go."
       ]
     },
     {
@@ -73,7 +74,7 @@
       "position": "Referee",
       "website": "https://www.firstlegoleague.udl.cat/ca/",
       "startDate": "2018-02-24",
-      "summary": "Referee in the FLL Lleida editions of 2018, 2019, 2020 and 2023.",
+      "summary": "Referee in the FLL Lleida editions of 2018, 2019, 2020, 2023 and 2024.",
       "highlights": [
         "First Lego League is a robotics and science competition aimed at kids and teens to inspire and encourage them into the world of STEAM.",
         "Kids have to present a science project, showcase the positive values of their team and build a robot using Lego Mindstorms equipment.",
@@ -183,6 +184,17 @@
     },
     {
       "name": "Cycling"
+    },
+    {
+      "name": "Strength training"
     }
   ],
+  "projects": [
+    {
+      "name": "WeightLog",
+      "startDate": "2023-09-01",
+      "description": "Working in an open source GPL gym diary application, which allows users to log their workouts and see statistics on their weight training. This is a mobile PWA (Progressive Web App) using IndexedDB as the local database and developed in React with MUI and Typescript. The backend for the optional cloud service (closed source) is also in development, written with Python, Flask, SQLAlchemy and PostgreSQL technologies.",
+      "url": "https://github.com/marcsances/weightlog"
+    }
+  ]
 }
