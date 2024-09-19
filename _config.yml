@@ -27,7 +27,7 @@ url: https://marcsances.net
 github_username:  marcsances
 author:
   name: Marc Sances
-  picture: /assets/marcsances.png
+  picture: /assets/marcsances.jpeg
 # Build settings
 theme: jekyll-theme-basically-basic
 plugins:
