@@ -84,7 +84,7 @@
       "position": "Referee",
       "website": "https://www.firstlegoleague.udl.cat/ca/",
       "startDate": "2018-02-24",
-      "summary": "Referee in the FLL Lleida editions of 2018, 2019, 2020, 2023 and 2024.",
+      "summary": "Referee in the FLL Lleida editions of 2018, 2019, 2020, 2023, 2024 and 2025.",
       "highlights": [
         "First Lego League is a robotics and science competition aimed at kids and teens to inspire and encourage them into the world of STEAM.",
         "Kids have to present a science project, showcase the positive values of their team and build a robot using Lego Mindstorms equipment.",
@@ -201,10 +201,10 @@
   ],
   "projects": [
     {
-      "name": "WeightLog",
+      "name": "RepQuest",
       "startDate": "2023-09-01",
-      "description": "Working in an open source GPL gym diary application, which allows users to log their workouts and see statistics on their weight training. This is a mobile PWA (Progressive Web App) using IndexedDB as the local database and developed in React with MUI and Typescript. The backend for the optional cloud service (closed source) is also in development, written with Python, Flask, SQLAlchemy and PostgreSQL technologies.",
-      "url": "https://github.com/marcsances/weightlog"
+      "description": "Working in an open source GPL gym diary application, which allows users to log their workouts and see statistics on their weight training. This is a mobile PWA (Progressive Web App) using IndexedDB as the local database and developed in React with MUI and Typescript.",
+      "url": "https://github.com/marcsances/repquest"
     }
   ]
 }
