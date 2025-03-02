@@ -39,7 +39,8 @@
       "highlights": [
         "Worked in the Data Platform, both backend (Go, C#) and frontend (React), in delivering a newer, more resilient and scalable solution for customers.",
         "Developing in systems at scale, designing and implementing new services based in a microservice architecture and deployed through IaC (Terraform / Helm) into a Cloud Platform (AWS, Kubernetes). Communication is queue based through Kafka and data is indexed through OpenSearch.",
-        "Now working in the Business Team, where I focus my efforts in frontend development (React + Typescript), but also work in backend tasks in Go."
+        "Now working in the Business Team, where I focus my efforts in frontend development (React + Typescript), but also work in backend tasks in Go.",
+        "I also work hand in hand with the UX design team, where I introduced the use of Storybook and shared component libraries, and I'm currently helping in the introduction of a design system for the company."
       ]
     },
     {
@@ -131,7 +132,8 @@
         "React",
         "HTML5",
         "Typescript",
-        "CSS"
+        "CSS",
+        "Storybook"
       ]
     },
     {
@@ -143,7 +145,8 @@
         "SQLite",
         "Redis",
         "Kafka",
-        "Elasticsearch"
+        "Elasticsearch",
+        "IndexedDB"
       ]
     },
     {
